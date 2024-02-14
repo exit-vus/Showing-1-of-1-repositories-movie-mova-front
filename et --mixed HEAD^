@@ -1,0 +1,42 @@
+[33mcommit 606f88af7e50a34810e6cde26f083821c1d23837[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: subinJeong <dydwns18011@gmail.com>
+Date:   Tue Jan 30 22:05:02 2024 +0900
+
+    Add: Git LFS 설정
+
+[33mcommit 23803e0eeebc65fbbefd67092d06239e1020fa56[m
+Merge: fbd7999 4272de7
+Author: subinJeong <dydwns18011@gmail.com>
+Date:   Tue Jan 30 21:53:19 2024 +0900
+
+    Merge branch 'main' of https://github.com/exit-vus/movie-mova-front
+
+[33mcommit fbd799982c78bec82ae461f0efa1278235eadb71[m
+Author: subinJeong <dydwns18011@gmail.com>
+Date:   Tue Jan 30 21:51:49 2024 +0900
+
+    Add: electron 환경 설정
+
+[33mcommit b8f1e1c1f32014c03cb6fe0b708906e4fa9fbe67[m
+Author: subinJeong <dydwns18011@gmail.com>
+Date:   Tue Jan 30 21:46:26 2024 +0900
+
+    🔥 Remove: 기본 코드 삭제
+
+[33mcommit 4272de700bc7270148d3c24d81ed86d5665f600b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kwonyongjun <dydwns18011@gmail.com>
+Date:   Tue Jan 30 09:31:53 2024 +0900
+
+    🔥 Remove: 불필요한 파일 삭제
+
+[33mcommit 2228cc9baf8ea6e96bf1b331fd9a5b694d95e7e7[m
+Author: kwonyongjun <dydwns18011@gmail.com>
+Date:   Mon Jan 29 17:53:53 2024 +0900
+
+    first commit
+
+[33mcommit 6796c60d89df9df4dd31e2258c27ea67f20c9e02[m
+Author: 권용준 <70560755+kwonyongjun1@users.noreply.github.com>
+Date:   Sat Jan 27 20:11:53 2024 +0900
+
+    Initial commit
